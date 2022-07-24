@@ -8,4 +8,6 @@
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="save">Save</string>
+    <string name="users">Users</string>
+    <string name="years_old">years old</string>
 </resources>

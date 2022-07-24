@@ -2,6 +2,7 @@ package com.madarsoft.madarsoft.mvvm.ui.addUser;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Toast;
 
 import androidx.lifecycle.ViewModelProvider;
 
@@ -38,6 +39,8 @@ public class AddUserActivity extends BaseActivity {
 
     private void onAddUserResponse(Long aLong) {
         clearFields();
+        Toast.makeText(getApplicationContext(), "Done", Toast.LENGTH_SHORT).show();
+        finish();
     }
 
     private void clearFields() {

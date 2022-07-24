@@ -6,9 +6,12 @@
         <entry key="..\:/Users/Osama/AndroidStudioProjects/Madarsoft/app/src/main/res/drawable-v24/back_button.xml" value="0.3671875" />
         <entry key="..\:/Users/Osama/AndroidStudioProjects/Madarsoft/app/src/main/res/drawable-v24/rounded_corner_gray_solid.xml" value="0.3671875" />
         <entry key="..\:/Users/Osama/AndroidStudioProjects/Madarsoft/app/src/main/res/drawable-v24/rounded_orange_solid.xml" value="0.3671875" />
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Madarsoft/app/src/main/res/drawable/ic_add_user.xml" value="0.2109375" />
         <entry key="..\:/Users/Osama/AndroidStudioProjects/Madarsoft/app/src/main/res/layout/activity_add_user.xml" value="0.35104166666666664" />
         <entry key="..\:/Users/Osama/AndroidStudioProjects/Madarsoft/app/src/main/res/layout/activity_base.xml" value="0.35104166666666664" />
         <entry key="..\:/Users/Osama/AndroidStudioProjects/Madarsoft/app/src/main/res/layout/activity_main.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Madarsoft/app/src/main/res/layout/activity_users.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/Osama/AndroidStudioProjects/Madarsoft/app/src/main/res/layout/row_user_item.xml" value="0.35104166666666664" />
       </map>
     </option>
   </component>
