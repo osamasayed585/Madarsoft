@@ -16,7 +16,7 @@ A Simple Madarsoft-App built to demonstrate the use of Modern Android developmen
 - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - [Room](https://developer.android.com/training/data-storage/room)
 - [Lombok](https://plugins.jetbrains.com/plugin/6317-lombok/)
-- [OOP] specifically professional use of inheritance
+- OOP specifically professional use of inheritance
 - and more
 
 ## Important Note 
